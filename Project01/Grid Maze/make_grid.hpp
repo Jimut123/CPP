@@ -1,8 +1,8 @@
 /*This part of the header file contains the code for the maze, the definition of the maker functions*/
 
 
-#ifndef __MAKE_GRID_H__
-#define __MAKE_GRID_H__
+#ifndef __MAKE_GRID_HPP__
+#define __MAKE_GRID_HPP__
 
 
 #include <iostream>
