@@ -1,7 +1,7 @@
 /*This is the code for containing the simple words that will be used in the game*/
 
 #include <iostream>
-#include <bits/stdc++.h>
+
 #ifndef __WORD_LIST_HPP__
 #define __WORD_LIST_HPP__
 

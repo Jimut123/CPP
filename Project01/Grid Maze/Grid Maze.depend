@@ -24,16 +24,13 @@
 	<bits/stdc++.h>
 	"word_list.h"
 
-1572453544 source:/home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/main.cpp
+1572455761 source:/home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/main.cpp
 	<iostream>
 	<ctime>
 	<unistd.h>
 	"make_grid.hpp"
-	"word_list.hpp"
-	"utils.hpp"
 
-1572453731 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/make_grid.hpp
-	<iostream>
+1572456285 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/make_grid.hpp
 	<bits/stdc++.h>
 	<cstdlib>
 	<unistd.h>
@@ -41,11 +38,18 @@
 	"word_list.hpp"
 	"utils.hpp"
 
-1572453495 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/word_list.hpp
+1572455677 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/word_list.hpp
 	<iostream>
-	<bits/stdc++.h>
 
-1572453449 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/utils.hpp
+1572456302 /home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/utils.hpp
 	<bits/stdc++.h>
 	"word_list.hpp"
+
+1572456294 source:/home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/make_grid.cpp
+	<iostream>
+	"make_grid.hpp"
+
+1572456293 source:/home/jimutbp/Desktop/CPP_TRAIN/CPP/Project01/Grid Maze/utils.cpp
+	<iostream>
+	"utils.hpp"
 

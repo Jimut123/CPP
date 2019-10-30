@@ -3,8 +3,7 @@
 #include <unistd.h>
 
 #include "make_grid.hpp"
-#include "word_list.hpp"
-#include "utils.hpp"
+
 
 using namespace std;
 

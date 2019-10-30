@@ -5,11 +5,12 @@
 #define __MAKE_GRID_HPP__
 
 
-#include <iostream>
+
 #include <bits/stdc++.h>
 #include <cstdlib>
 #include <unistd.h>
 #include <ctime>
+
 #include "word_list.hpp"
 #include "utils.hpp"
 
@@ -28,13 +29,14 @@ public:
     char get_random_character_A_Z();
     int get_random_number_0_size();
     int get_random_number_0_1();    // 0 for down and 1 for right
-    make_grid(int get_size);
+    make_grid(int);
     //~make_grid();
     void display_matrix();
     void make_matrix();
     void make_puzzle();
     void test_r01();
 };
+
 
 void make_grid::test_r01()
 {
@@ -174,6 +176,5 @@ void make_grid::make_puzzle()
         cin>>ch;
     }
 }
-
 
 #endif /*__MAKE_GRID_H__*/

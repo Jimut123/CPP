@@ -35,6 +35,7 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="make_grid.h" />
 		<Unit filename="utils.h" />
+		<Unit filename="utils.hpp" />
 		<Unit filename="word_list.h" />
 		<Extensions>
 			<envvars />
