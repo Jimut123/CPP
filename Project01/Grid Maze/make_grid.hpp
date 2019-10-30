@@ -10,8 +10,8 @@
 #include <cstdlib>
 #include <unistd.h>
 #include <ctime>
-#include "word_list.h"
-#include "utils.h"
+#include "word_list.hpp"
+#include "utils.hpp"
 
 #define NUM 20
 

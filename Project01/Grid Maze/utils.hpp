@@ -1,11 +1,11 @@
 
 #include <bits/stdc++.h>
-#include "word_list.h"
+#include "word_list.hpp"
 
 
 
-#ifndef __UTILS_H__
-#define __UTILS_H__
+#ifndef __UTILS_HPP__
+#define __UTILS_HPP__
 
 struct sort_pred {
     bool operator()(const std::pair<string,int> &left, const std::pair<string,int> &right) {
@@ -32,6 +32,8 @@ public:
     void make_dict();
     void print_dict();
 };
+
+
 
 void utils::create_vector()
 {
@@ -68,5 +70,6 @@ void utils::print_dict()
         cout<<i.word<<" "<<i.len<<" "<<i.flag<<endl;
     }
 }
+
 
 #endif

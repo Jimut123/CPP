@@ -2,8 +2,8 @@
 
 #include <iostream>
 #include <bits/stdc++.h>
-#ifndef __WORD_LIST_H__
-#define __WORD_LIST_H__
+#ifndef __WORD_LIST_HPP__
+#define __WORD_LIST_HPP__
 
 using namespace std;
 string WORDS[26]={
