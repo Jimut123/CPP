@@ -33,10 +33,9 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
-		<Unit filename="make_grid.h" />
-		<Unit filename="utils.h" />
+		<Unit filename="make_grid.hpp" />
 		<Unit filename="utils.hpp" />
-		<Unit filename="word_list.h" />
+		<Unit filename="word_list.hpp" />
 		<Extensions>
 			<envvars />
 			<code_completion />

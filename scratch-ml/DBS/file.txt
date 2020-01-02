@@ -1,0 +1,4 @@
+# To get into mariadb
+
+mysql -u root -p
+
